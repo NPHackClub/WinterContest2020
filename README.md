@@ -1,4 +1,4 @@
-# North Park Hack Club Winter Contest
+# North Park Hack Club Winter Contest 2020
 
 Submit a Christmas themed project and win up to $15 in amazon gift vouchers
 
