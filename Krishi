@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Krishi Dalal | Toronto Raptors Gallery </title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+
+@import url(https://fonts.googleapis.com/css?family=Google+Sans);
+
+
+* {
+  box-sizing: border-box;
+}
+img {
+  border-radius: 8px;
+}
+
+body {
+  margin: 0;
+    font-family: 'Google Sans',serif;
+    font-color: #111;
+}
+
+.header {
+  text-align: center;padding: 32px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE 10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE 10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  -ms-flex: 50%; /* IE 10 */
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #ddd;
+  cursor: pointer;
+  font-size: 30px;
+  font-family: 'Google Sans',serif;
+
+}
+
+.btn:hover {
+  background-color: #ddd;
+    font-family: 'Google Sans',serif;
+
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+    font-family: 'Google Sans',serif;
+
+}
+</style>
+</head>
+<body>
+
+
+<!-- Header -->
+<div class="header" id="myHeader">
+  <h1> <font color="red">Toronto Raptors</h1>
+<p><font color="black"> 
+<font size="5px"> 
+    Hi, I am Krishi Dalal a grade 9 student who is currently a huge fan of the Toronto Raptors. I wanted to dedicate this website to the Raptors team by including photos of each of the players. I hope you enjoy! </p>
+</style>
+</head>
+<body>
+<!-- Header -->
+<div class="header" id="myHeader">
+<button class="btn active" onclick="location.href='https://www.nba.com/raptors/';"> Official Website</button>
+
+</div>
+
+<!-- Photo Grid -->
+</body>
+</html>
+
+<div class="row"> 
+  <div class="column">
+    <img src="https://pbs.twimg.com/profile_images/1341506256532615168/UMUBJtGk.png"style="width:100%">
+    <img src="https://www.recorder.com/getattachment/13cfb35d-baeb-4e77-81a5-e09c3a662763/aps-bkn-Raptors-Tampa-112520-ph01" style="width:100%">
+    <img src="https://www.nba.com/raptors/sites/raptors/files/klrsr.png" style="width:100%">
+    <img src="https://cdn.vox-cdn.com/thumbor/iJNsB03waXHCFLcAZBj9Doc7gsg=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19780929/usa_today_14161395.jpg" style="width:100%">
+    <img src="https://pbs.twimg.com/media/D_4cVf4X4AEkFlF.jpg"style="width:100%">
+    <img src="https://cdn.vox-cdn.com/thumbor/Acq0HOmPshmV7OuGyKyye3GgkJU=/0x259:3474x2705/1200x800/filters:focal(1286x638:1840x1192)/cdn.vox-cdn.com/uploads/chorus_image/image/64970051/1154827544.jpg.0.jpg" style="width:100%">
+    <img src="https://images.thestar.com/foWBdRo0oNWJ9N3-N0MLU8NSlaQ=/1086x724/smart/filters:cb(1578669150290)/https://www.thestar.com/content/dam/thestar/sports/raptors/2020/01/09/raptors-get-the-help-they-need-from-backup-turned-starter-patrick-mccaw/mccaw.jpg" style="width:100%">
+    <img src="https://cdn.vox-cdn.com/thumbor/j94SC1BnKCp7onWfb9nWMIpA7vo=/0x0:2400x3600/1200x800/filters:focal(764x461:1148x845)/cdn.vox-cdn.com/uploads/chorus_image/image/68511956/1230017590.0.jpg" style="width:100%">
+    <img src="https://cdn.vox-cdn.com/thumbor/3DotI5n4cA8zQKJ4DCZpyNRiuSI=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22052294/1198046100.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://img.bleacherreport.net/img/images/photos/003/843/531/hi-res-ea953d826fad81aa69cf2a293cc1d4c7_crop_north.jpg?1576806026&w=3072&h=2048" style="width:100%">
+    <img src="https://impactbball.com/newsite/wp-content/uploads/2019/11/Terence-Davis.jpg" style="width:100%">
+    <img src="https://cdn.vox-cdn.com/thumbor/yL9pm5eFTbcL3sW_As4CS6ITO4w=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19562909/usa_today_13812912.jpg" style="width:100%">
+    <img src="https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Fraptorsrapture.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F07%2F1291813202-850x560.jpeg" style="width:100%">
+    <img src="https://cdn.vox-cdn.com/thumbor/p9ZXXV48c20Xjz7eaheuqkfGZKI=/0x340:3342x2238/1200x800/filters:focal(872x700:1448x1276)/cdn.vox-cdn.com/uploads/chorus_image/image/68565721/1230200353.0.jpg" style="width:100%">
+    <img src="https://images.daznservices.com/di/library/NBA_Global_CMS_image_storage/c3/20/stanleyjohnson_1agidfglxtyi316w2zhydsazz1.jpg?t=-698144459&quality=80" style="width:100%">
+    <img src="https://cdn.vox-cdn.com/thumbor/LAHWmHu41qxRxoyxSl6nlJy2u6g=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22185905/1291813283.jpg" style="width:100%">
+     <img src="https://www.tsn.ca/polopoly_fs/1.1564276!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/deandre-bembry.jpg" style="width:100%">
+      <img src="https://cdn.vox-cdn.com/thumbor/PxuKrYkKF9eZHJLq_iDrCPlyHi4=/316x0:2400x2572/1400x933/filters:focal(1354x477:1738x861):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68561461/1230200708.0.jpg" style="width:100%">
+  
+
+  </div>  
+  
+</div>
+
+<script>
+// Get the elements with class="column"
+var elements = document.getElementsByClassName("column");
+
+// Declare a loop variable
+var i;
+
+// Full-width images
+function one() {
+    for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "100%";  // IE10
+    elements[i].style.flex = "100%";
+  }
+}
+
+// Two images side by side
+function two() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "50%";  // IE10
+    elements[i].style.flex = "50%";
+  }
+}
+
+// Four images side by side
+function four() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "25%";  // IE10
+    elements[i].style.flex = "25%";
+  }
+}
+
+// Add active class to the current button (highlight it)
+var header = document.getElementById("myHeader");
+var btns = header.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
+
+</body>
+</html>
+
