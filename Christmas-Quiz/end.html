@@ -1,0 +1,28 @@
+  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Score</title>
+    <link rel="stylesheet" href="style.css">
+   	<link href="https://fonts.googleapis.com/css2?family=Nova+Square&display=swap" rel="stylesheet">
+		 	<link rel="icon" href="https://i.ibb.co/nkn5Sz0/kisspng-santa-claus-santa-suit-hat-christmas-clip-art-christmas-hat-file-png-5ab117227ed9b5-39404763.png" type="image/x-icon"/>
+</head>
+<body>
+    <div class="container">
+        <div id="end" class="flex-center flex-column">
+					<h1>Your Score:</h1>
+            <h2 id="finalScore">0</h2>
+            <form class="end-form-container">
+                <h2 id="end-text">Enter your name below to save your score!</h2>
+                <input type="text" name="name" id="username" placeholder="Enter your name">
+                <button class="btn" id="saveScore" type="submit" onclick="saveHighScore(event)" disabled>Save</button>
+            </form>
+            <a href="/game.html" class="btn">Play Again</a>
+            <a href="/" class="btn">Go Home</a>
+        </div>
+    </div>
+    <script src="end.js"></script>
+</body>
+</html>

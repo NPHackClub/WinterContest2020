@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link href="style.css" rel="stylesheet">
+	<link href="game.css" rel="stylesheet">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link href="https://fonts.googleapis.com/css2?family=Nova+Square&display=swap" rel="stylesheet">
+	<link rel="icon" href="https://i.ibb.co/nkn5Sz0/kisspng-santa-claus-santa-suit-hat-christmas-clip-art-christmas-hat-file-png-5ab117227ed9b5-39404763.png" type="image/x-icon"/>
+	<title>Christmas Quiz</title>
+</head>
+<body>
+	<div class="container">
+		<div class="justify-center flex-column" id="game">
+			<div id="hud">
+				<div class="hud-item">
+					<p class="hud-prefix" id="progressText">question</p>
+					<div id="progressBar">
+						<div id="progressBarFull"></div>
+					</div>
+				</div>
+				<div class="hud-item">
+					<p class="hud-prefix">score</p>
+					<h1 class="hud-main-text" id="score">0</h1>
+				</div>
+			</div>
+			<h2 id="question">What is the answer</h2>
+			<div class="choices">
+				<p class="choice-prefix">A</p>
+				<p class="choice-text" data-number="1">Choice</p>
+			</div>
+			<div class="choices">
+				<p class="choice-prefix">B</p>
+				<p class="choice-text" data-number="2">Choice1</p>
+			</div>
+			<div class="choices">
+				<p class="choice-prefix">C</p>
+				<p class="choice-text" data-number="3">Choice2</p>
+			</div>
+			<div class="choices">
+				<p class="choice-prefix">D</p>
+				<p class="choice-text" data-number="4">Choice3</p>
+			</div>
+		</div>
+	</div>
+	<script src="script.js">
+	</script>
+</body>
+</html>
