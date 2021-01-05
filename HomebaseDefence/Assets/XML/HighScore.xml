@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--  This is the database for the highscores for the players. It includes the high scores and the player names.  --><class>
+	<HighScore>
+		<name>Player</name>
+		<score>0</score>
+	</HighScore>
+</class>
